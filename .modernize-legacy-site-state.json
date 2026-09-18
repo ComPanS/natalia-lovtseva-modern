@@ -1,0 +1,14 @@
+{
+  "stage": 1,
+  "openingClassification": "profile site",
+  "sourceUrls": [
+    "https://tsentr-krasoty-natali.clients.site/",
+    "https://yandex.ru/maps/org/tsentr_krasoty_natalyi_lovtsevoy/1281310175/"
+  ],
+  "implementedRoutes": ["/"],
+  "deferredRoutes": ["/prices/", "/gallery/", "/reviews/"],
+  "logoStatus": "found-and-used",
+  "primaryImageStatus": "found-and-used",
+  "bookingStatus": "verified-external-destination",
+  "lastResearchDate": "2026-09-18"
+}
