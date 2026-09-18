@@ -36,7 +36,7 @@ export const services: Service[] = [
 ]
 
 export const images = {
-  background: '/hero-natalia.jpg',
+  background: `${import.meta.env.BASE_URL}hero-natalia.jpg`,
   solar: 'https://avatars.mds.yandex.net/get-sprav-posts/19677858/2a0000019cbef585920d9f2a4970d8aac067/XL',
   curls: 'https://avatars.mds.yandex.net/get-sprav-posts/19919567/2a0000019c5299e49d4e9e691e439c2c8b72/XL',
   piercing: 'https://avatars.mds.yandex.net/get-sprav-posts/19677858/2a0000019c57b44d334804634dab814c0406/XL',
